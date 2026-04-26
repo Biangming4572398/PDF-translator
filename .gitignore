@@ -1,0 +1,10 @@
+build/
+dist/
+*.exe
+*.dll
+*.log
+*.out
+tmp/
+.gocache/
+.idea/
+.vscode/
